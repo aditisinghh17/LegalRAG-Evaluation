@@ -1,0 +1,6 @@
+/.env
+/kb.txt
+/main.py
+/qa.csv
+/rag_openai.ipynb
+/README.md
