@@ -1,1 +1,1 @@
-#  Assessment of Legal Domain-Specific Retrieval-Augmented Generation Pipelines Using Diverse LLMs
+#  Assessment of Legal Domain-Specific RAG Pipelines Using Diverse LLMs
