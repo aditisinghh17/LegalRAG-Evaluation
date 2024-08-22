@@ -1,6 +1,6 @@
 #  Assessment of Legal Domain-Specific RAG Pipelines Using Diverse LLMs
 
-## COMPONENTS OF RAG SYSTEM
+### COMPONENTS OF RAG SYSTEM
 
 LLM : ChatGPT Turbo-3,  Phi3:Medium, Mistral
 Embeddings : OpenAI
