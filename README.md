@@ -10,6 +10,6 @@
 
 ## DATASET
 
-Knowledge Base : https://huggingface.co/datasets/ninadn/indian-legal
-Q/A Set (generated synthetically with GPT-3.5 Turbo) : Q/A Dataset 
+1. Knowledge Base : https://huggingface.co/datasets/ninadn/indian-legal
+2. Q/A Set (generated synthetically with GPT-3.5 Turbo) : Q/A Dataset 
 
