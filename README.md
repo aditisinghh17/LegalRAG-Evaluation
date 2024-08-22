@@ -2,7 +2,7 @@
 
 ### COMPONENTS OF RAG SYSTEM
 
-1. LLM : ChatGPT Turbo-3,  Phi3:Medium, Mistral
+1. LLMs Used : ChatGPT Turbo-3,  Phi3:Medium, Mistral
 2. Embeddings : OpenAI
 3. Vector Store : Pinecone
 4. LangChain
@@ -10,6 +10,6 @@
 
 ## DATASET
 
-Knowledge Base : IndianLegalDataset
+Knowledge Base : https://huggingface.co/datasets/ninadn/indian-legal
 Q/A Set (generated synthetically with GPT-3.5 Turbo) : Q/A Dataset 
 
